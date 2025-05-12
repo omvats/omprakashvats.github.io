@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Hydrology
 venue: "University, Department of Civil Engineering"
-date: 2014-01-01
+date: 2025-03-05
 location: "Auranagabad, Bihar, India"
 ---
 
